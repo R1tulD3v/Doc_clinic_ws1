@@ -1,0 +1,441 @@
+{
+  "phoneReport": {
+    "index.html": [
+      {
+        "href": "tel:+917091238383",
+        "text": "+91 70912 38383",
+        "label": "Header Phone Button",
+        "visible": false,
+        "html": "<a href=\"tel:+917091238383\" class=\"hdr__phone-ref\" aria-label=\"Call +91 70912 38383\">\n          <svg class=\"hdr__phone-ref-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n            <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n          </svg>\n          <span class=\"hdr__phone-ref-num\">+91 70912 38383</span>\n        </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Appointments\n99050 57644",
+        "label": "Appointments",
+        "visible": true,
+        "html": "<a class=\"info-list__item\" href=\"tel:+919905057644\">\n              <span class=\"info-list__icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                  <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n                </svg></span>\n              <span><small data-i18n=\"info.phone\">Appointments</small><b>99050 57644</b></span>\n            </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Clinic: 70912 38383",
+        "label": "Clinic:",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Appointments: 99050 57644",
+        "label": "Appointments:",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Call the clinic",
+        "label": "Floating Call Button (FAB)",
+        "visible": true,
+        "html": "<a class=\"fab fab--call\" href=\"tel:+919905057644\" data-i18n-aria=\"fab.call\" aria-label=\"Call the clinic\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span class=\"fab__tip\" data-i18n=\"fab.call\">Call the clinic</span></a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Call link",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\" class=\"chat__call\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span data-i18n=\"cta.call\">Call</span></a>"
+      }
+    ],
+    "doctor.html": [
+      {
+        "href": "tel:+917091238383",
+        "text": "+91 70912 38383",
+        "label": "Header Phone Button",
+        "visible": false,
+        "html": "<a href=\"tel:+917091238383\" class=\"hdr__phone-ref\" aria-label=\"Call +91 70912 38383\">\n          <svg class=\"hdr__phone-ref-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n            <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n          </svg>\n          <span class=\"hdr__phone-ref-num\">+91 70912 38383</span>\n        </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Call Doctor\n· 70912 38383",
+        "label": "Call Doctor\n· 70912 38383",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\" class=\"btn btn--cta\"><span data-i18n=\"doc.callDoc\">Call Doctor</span> · 70912\n              38383</a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Clinic: 70912 38383",
+        "label": "Clinic:",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Appointments: 99050 57644",
+        "label": "Appointments:",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Call the clinic",
+        "label": "Floating Call Button (FAB)",
+        "visible": true,
+        "html": "<a class=\"fab fab--call\" href=\"tel:+919905057644\" data-i18n-aria=\"fab.call\" aria-label=\"Call the clinic\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span class=\"fab__tip\" data-i18n=\"fab.call\">Call the clinic</span></a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Call link",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\" class=\"chat__call\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span data-i18n=\"cta.call\">Call</span></a>"
+      },
+      {
+        "href": "(plain text)",
+        "text": "Registration No. 4122/A · Appointments: 99050 57644",
+        "label": "Doctor Card Meta",
+        "visible": true,
+        "html": "<p class=\"doc-card__meta\"><span data-i18n=\"doc.reg\">Registration No.</span> 4122/A · <span data-i18n=\"doc.clinic\">Appointments</span>: 99050 57644</p>"
+      }
+    ],
+    "contact.html": [
+      {
+        "href": "tel:+917091238383",
+        "text": "+91 70912 38383",
+        "label": "Header Phone Button",
+        "visible": false,
+        "html": "<a href=\"tel:+917091238383\" class=\"hdr__phone-ref\" aria-label=\"Call +91 70912 38383\">\n          <svg class=\"hdr__phone-ref-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n            <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n          </svg>\n          <span class=\"hdr__phone-ref-num\">+91 70912 38383</span>\n        </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Mobile Drawer",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Call the Clinic",
+        "label": "Call the Clinic",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\" class=\"btn btn--cta\" aria-label=\"Call the clinic at +91 70912 38383\">\n                <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\">\n                  <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n                </svg>\n                <span data-i18n=\"ct.callClinic\">Call the Clinic</span>\n              </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "CALL US\n+91 70912 38383\nDirect consultation & emergency appointments",
+        "label": "CALL US",
+        "visible": true,
+        "html": "<a class=\"contact-channel-card\" href=\"tel:+917091238383\" data-reveal=\"\">\n            <div class=\"contact-channel-card__icon\" aria-hidden=\"true\">\n              <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n              </svg>\n            </div>\n            <div class=\"contact-channel-card__label\" data-i18n=\"ct.callUs\">Call Us</div>\n            <div class=\"contact-channel-card__val\">+91 70912 38383</div>\n            <div class=\"contact-channel-card__note\" data-i18n=\"ct.callNote\">Direct consultation &amp; emergency appointments</div>\n          </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Call +91 70912 38383",
+        "label": "Contact Booking Banner",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\" class=\"btn btn--white\" aria-label=\"Call +91 70912 38383\">\n                  <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                    <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path>\n                  </svg>\n                  <span data-i18n=\"ct.callNow\">Call +91 70912 38383</span>\n                </a>"
+      },
+      {
+        "href": "tel:+917091238383",
+        "text": "Clinic: 70912 38383",
+        "label": "Clinic:",
+        "visible": true,
+        "html": "<a href=\"tel:+917091238383\">Clinic: 70912 38383</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Appointments: 99050 57644",
+        "label": "Appointments:",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\">Appointments: 99050 57644</a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "Call the clinic",
+        "label": "Floating Call Button (FAB)",
+        "visible": true,
+        "html": "<a class=\"fab fab--call\" href=\"tel:+919905057644\" data-i18n-aria=\"fab.call\" aria-label=\"Call the clinic\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span class=\"fab__tip\" data-i18n=\"fab.call\">Call the clinic</span></a>"
+      },
+      {
+        "href": "tel:+919905057644",
+        "text": "",
+        "label": "Call link",
+        "visible": true,
+        "html": "<a href=\"tel:+919905057644\" class=\"chat__call\"><svg class=\"\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"></path></svg><span data-i18n=\"cta.call\">Call</span></a>"
+      }
+    ]
+  },
+  "waReport": [
+    {
+      "page": "index.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "",
+      "aria": ""
+    },
+    {
+      "page": "index.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Ask us on WhatsApp",
+      "aria": ""
+    },
+    {
+      "page": "index.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Chat on WhatsApp",
+      "aria": "Chat on WhatsApp"
+    },
+    {
+      "page": "index.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20have%20a%20question%3A",
+      "text": "",
+      "aria": ""
+    },
+    {
+      "page": "doctor.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "",
+      "aria": ""
+    },
+    {
+      "page": "doctor.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Ask us on WhatsApp",
+      "aria": ""
+    },
+    {
+      "page": "doctor.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Chat on WhatsApp",
+      "aria": ""
+    },
+    {
+      "page": "doctor.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Chat on WhatsApp",
+      "aria": "Chat on WhatsApp"
+    },
+    {
+      "page": "doctor.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20have%20a%20question%3A",
+      "text": "",
+      "aria": ""
+    },
+    {
+      "page": "contact.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "",
+      "aria": ""
+    },
+    {
+      "page": "contact.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "WhatsApp Us",
+      "aria": ""
+    },
+    {
+      "page": "contact.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "WhatsApp Us",
+      "aria": ""
+    },
+    {
+      "page": "contact.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+      "text": "Chat on WhatsApp",
+      "aria": "Chat on WhatsApp"
+    },
+    {
+      "page": "contact.html",
+      "href": "https://wa.me/919905057644?text=Hello%20Dental%20Care%2C%20I%20have%20a%20question%3A",
+      "text": "",
+      "aria": ""
+    }
+  ],
+  "layoutReport": {
+    "footer": {
+      "360": {
+        "ftRect": {
+          "w": 360,
+          "h": 1363.734375
+        },
+        "gridColumns": "320px",
+        "contactItems": [
+          {
+            "text": "In front of Bala Ji TELCOM, Mill Road, Khagaria, Bihar 851204",
+            "rect": {
+              "w": 320,
+              "h": 44.78125
+            }
+          },
+          {
+            "text": "Clinic: 70912 38383",
+            "rect": {
+              "w": 320,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Appointments: 99050 57644",
+            "rect": {
+              "w": 320,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Mon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+            "rect": {
+              "w": 320,
+              "h": 44.78125
+            }
+          }
+        ],
+        "hasHorizontalScroll": true
+      },
+      "768": {
+        "ftRect": {
+          "w": 768,
+          "h": 1048.671875
+        },
+        "gridColumns": "352px 352px",
+        "contactItems": [
+          {
+            "text": "In front of Bala Ji TELCOM, Mill Road, Khagaria, Bihar 851204",
+            "rect": {
+              "w": 352,
+              "h": 44.78125
+            }
+          },
+          {
+            "text": "Clinic: 70912 38383",
+            "rect": {
+              "w": 352,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Appointments: 99050 57644",
+            "rect": {
+              "w": 352,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Mon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+            "rect": {
+              "w": 352,
+              "h": 44.78125
+            }
+          }
+        ],
+        "hasHorizontalScroll": true
+      },
+      "1440": {
+        "ftRect": {
+          "w": 1425,
+          "h": 473.765625
+        },
+        "gridColumns": "337.484px 225px 225px 292.5px",
+        "contactItems": [
+          {
+            "text": "In front of Bala Ji TELCOM, Mill Road, Khagaria, Bihar 851204",
+            "rect": {
+              "w": 292.5,
+              "h": 44.78125
+            }
+          },
+          {
+            "text": "Clinic: 70912 38383",
+            "rect": {
+              "w": 292.5,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Appointments: 99050 57644",
+            "rect": {
+              "w": 292.5,
+              "h": 22.390625
+            }
+          },
+          {
+            "text": "Mon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+            "rect": {
+              "w": 292.5,
+              "h": 44.78125
+            }
+          }
+        ],
+        "hasHorizontalScroll": true
+      }
+    },
+    "drawer": {
+      "360": {
+        "isOpen": true,
+        "panelRect": {
+          "w": 316.796875,
+          "h": 905
+        },
+        "infoText": "Clinic: 70912 38383\n Appointments: 99050 57644\nMon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+        "infoRect": {
+          "w": 268.796875,
+          "h": 91.75
+        }
+      },
+      "768": {
+        "isOpen": true,
+        "panelRect": {
+          "w": 360,
+          "h": 903
+        },
+        "infoText": "Clinic: 70912 38383\n Appointments: 99050 57644\nMon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+        "infoRect": {
+          "w": 312,
+          "h": 91.75
+        }
+      },
+      "1440": {
+        "isOpen": true,
+        "panelRect": {
+          "w": 360,
+          "h": 900
+        },
+        "infoText": "Clinic: 70912 38383\n Appointments: 99050 57644\nMon–Sat: 10 AM–2:30 PM & 3:30–7 PM · Sun: 10 AM–4 PM",
+        "infoRect": {
+          "w": 312,
+          "h": 91.75
+        }
+      }
+    }
+  }
+}

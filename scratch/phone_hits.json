@@ -1,0 +1,377 @@
+[
+  {
+    "file": "contact.html",
+    "line": 9,
+    "content": "content=\"Contact Dental Care on Mill Road, Khagaria. Dr. Manish Kumar, Oral &amp; Dental Surgeon. Call +91 70912 38383 or visit us in front of Bala Ji TELCOM.\">"
+  },
+  {
+    "file": "contact.html",
+    "line": 18,
+    "content": "content=\"Reach Dental Care on Mill Road, Khagaria. Call +91 70912 38383 or find clinic directions, chamber timings &amp; appointment options.\">"
+  },
+  {
+    "file": "contact.html",
+    "line": 37,
+    "content": "\"telephone\": \"+917091238383\","
+  },
+  {
+    "file": "contact.html",
+    "line": 77,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--cta\" aria-label=\"Call the clinic at +91 70912 38383\">"
+  },
+  {
+    "file": "contact.html",
+    "line": 127,
+    "content": "<a class=\"contact-channel-card\" href=\"tel:+917091238383\" data-reveal>"
+  },
+  {
+    "file": "contact.html",
+    "line": 136,
+    "content": "<div class=\"contact-channel-card__val\">+91 70912 38383</div>"
+  },
+  {
+    "file": "contact.html",
+    "line": 206,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--white\" aria-label=\"Call +91 70912 38383\">"
+  },
+  {
+    "file": "contact.html",
+    "line": 212,
+    "content": "<span data-i18n=\"ct.callNow\">Call +91 70912 38383</span>"
+  },
+  {
+    "file": "doctor.html",
+    "line": 37,
+    "content": "\"telephone\": \"+917091238383\","
+  },
+  {
+    "file": "doctor.html",
+    "line": 101,
+    "content": "\"text\": \"Call 99050 57644, message us on WhatsApp, or fill in the appointment form on this website — it sends your request straight to the clinic on WhatsApp.\""
+  },
+  {
+    "file": "doctor.html",
+    "line": 217,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--cta\"><span data-i18n=\"doc.callDoc\">Call Doctor</span> · 70912"
+  },
+  {
+    "file": "doctor.html",
+    "line": 222,
+    "content": "data-i18n=\"doc.clinic\">Clinic</span>: 99050 57644</p>"
+  },
+  {
+    "file": "index.html",
+    "line": 46,
+    "content": "\"telephone\": \"+919905057644\","
+  },
+  {
+    "file": "index.html",
+    "line": 209,
+    "content": "\"text\": \"Call 99050 57644, message us on WhatsApp, or fill in the appointment form on this website — it sends your request straight to the clinic on WhatsApp.\""
+  },
+  {
+    "file": "index.html",
+    "line": 800,
+    "content": "<a class=\"info-list__item\" href=\"tel:+919905057644\">"
+  },
+  {
+    "file": "index.html",
+    "line": 806,
+    "content": "<span><small data-i18n=\"info.phone\">Phone &amp; WhatsApp</small><b>99050 57644</b></span>"
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 29,
+    "content": "phoneDisplay: \"99050 57644\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 30,
+    "content": "phoneTel: \"+919905057644\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 31,
+    "content": "whatsappNumber: \"919905057644\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 32,
+    "content": "altPhoneDisplay: \"70912 38383\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 33,
+    "content": "altPhoneTel: \"+917091238383\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 243,
+    "content": "a: { en: \"Call 99050 57644, message us on WhatsApp, or fill in the appointment form on this website — it sends your request straight to the clinic on WhatsApp.\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 244,
+    "content": "hi: \"99050 57644 पर कॉल करें, व्हाट्सऐप पर संदेश भेजें, या इस वेबसाइट पर अपॉइंटमेंट फ़ॉर्म भरें — आपका अनुरोध सीधे क्लिनिक के व्हाट्सऐप पर पहुँचेगा।\" } },"
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 287,
+    "content": "answer: { en: \"Three easy ways:<br>1. Tap <b>WhatsApp</b> below<br>2. <b>Call</b> 99050 57644<br>3. Fill the appointment form on this website\","
+  },
+  {
+    "file": "js\\clinic-data.js",
+    "line": 288,
+    "content": "hi: \"तीन आसान तरीके:<br>1. नीचे <b>व्हाट्सऐप</b> दबाएँ<br>2. 99050 57644 पर <b>कॉल</b> करें<br>3. वेबसाइट पर अपॉइंटमेंट फ़ॉर्म भरें\" },"
+  },
+  {
+    "file": "js\\i18n.js",
+    "line": 187,
+    "content": "'ct.callNow': ['Call +91 70912 38383', 'कॉल करें +91 70912 38383'],"
+  },
+  {
+    "file": "js\\layout.js",
+    "line": 96,
+    "content": "<a href=\"tel:+917091238383\" class=\"hdr__phone-ref\" aria-label=\"Call +91 70912 38383\">"
+  },
+  {
+    "file": "js\\layout.js",
+    "line": 100,
+    "content": "<span class=\"hdr__phone-ref-num\">+91 70912 38383</span>"
+  },
+  {
+    "file": "js\\layout.js",
+    "line": 224,
+    "content": "<div class=\"field__phone\"><span>+91</span><input id=\"bk-phone\" type=\"tel\" inputmode=\"numeric\" autocomplete=\"tel-national\" maxlength=\"14\" data-i18n-ph=\"f.phonePh\" placeholder=\"10-digit mobile number\" required></div>"
+  },
+  {
+    "file": "js\\main.js",
+    "line": 874,
+    "content": "// Only digits, and strip a leading +91 / 0 that people often type"
+  },
+  {
+    "file": "js\\main.js",
+    "line": 892,
+    "content": "const text = `${t('wa.greet')}\\n\\n*${t('wa.name')}:* ${name}\\n*${t('wa.phone')}:* +91 ${phone}\\n*${t('wa.treatment')}:* ${selService.selectedOptions[0].textContent}\\n*${t('wa.date')}:* ${dayLabel}\\n*${t('wa.time')}:* ${selTime.selectedOptions[0].textContent}\\n`;"
+  },
+  {
+    "file": "js\\main.js",
+    "line": 957,
+    "content": "const text = `${t('wa.greet')}\\n\\n*${t('wa.name')}:* ${name}\\n*${t('wa.phone')}:* +91 ${phone}\\n*${t('wa.treatment')}:* ${t('f.optGeneral')}\\n*${t('wa.date')}:* ${dayLabel}\\n`;"
+  },
+  {
+    "file": "privacy-policy.html",
+    "line": 98,
+    "content": "Phone / WhatsApp: <a href=\"tel:+919905057644\">99050 57644</a></p>"
+  },
+  {
+    "file": "privacy-policy.html",
+    "line": 158,
+    "content": "फ़ोन / व्हाट्सऐप: <a href=\"tel:+919905057644\">99050 57644</a></p>"
+  },
+  {
+    "file": "terms.html",
+    "line": 92,
+    "content": "<p>Questions about these terms? Call or WhatsApp <a href=\"tel:+919905057644\">99050 57644</a>. See also our"
+  },
+  {
+    "file": "terms.html",
+    "line": 148,
+    "content": "<p>इन शर्तों से जुड़े सवालों के लिए <a href=\"tel:+919905057644\">99050 57644</a> पर कॉल या व्हाट्सऐप करें। हमारी"
+  },
+  {
+    "file": "treatments\\cast-partial-denture.html",
+    "line": 27,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\cast-partial-denture.html",
+    "line": 53,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\cast-partial-denture.html",
+    "line": 541,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\ceramic-crown-and-bridge.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\ceramic-crown-and-bridge.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\ceramic-crown-and-bridge.html",
+    "line": 351,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\childrens-dentistry.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\childrens-dentistry.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\childrens-dentistry.html",
+    "line": 257,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\complete-denture.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\complete-denture.html",
+    "line": 54,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\complete-denture.html",
+    "line": 514,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\dental-implants.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\dental-implants.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\dental-implants.html",
+    "line": 230,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\filling-of-decayed-teeth.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\filling-of-decayed-teeth.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\filling-of-decayed-teeth.html",
+    "line": 230,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\oral-lesions-diagnosis.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\oral-lesions-diagnosis.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\oral-lesions-diagnosis.html",
+    "line": 340,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\orthodontics.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\orthodontics.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\orthodontics.html",
+    "line": 227,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\periodontal-flap-surgery.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\periodontal-flap-surgery.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\periodontal-flap-surgery.html",
+    "line": 340,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\removable-partial-denture.html",
+    "line": 27,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\removable-partial-denture.html",
+    "line": 53,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\removable-partial-denture.html",
+    "line": 481,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\root-canal-treatment.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\","
+  },
+  {
+    "file": "treatments\\root-canal-treatment.html",
+    "line": 63,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\root-canal-treatment.html",
+    "line": 448,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\teeth-cleaning-scaling.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\teeth-cleaning-scaling.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\teeth-cleaning-scaling.html",
+    "line": 557,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  },
+  {
+    "file": "treatments\\teeth-whitening.html",
+    "line": 28,
+    "content": "\"telephone\": \"+917091238383\""
+  },
+  {
+    "file": "treatments\\teeth-whitening.html",
+    "line": 55,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--ghost btn--pill\">"
+  },
+  {
+    "file": "treatments\\teeth-whitening.html",
+    "line": 227,
+    "content": "<a href=\"tel:+917091238383\" class=\"btn btn--wa\">"
+  }
+]

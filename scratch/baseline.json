@@ -1,0 +1,1662 @@
+{
+  "index.html": {
+    "0:assets/images/clinic/clinic-4.jpeg": {
+      "src": "assets/images/clinic/clinic-4.jpeg",
+      "className": "hero__slide is-active",
+      "sizes": {
+        "1440": {
+          "w": 800,
+          "h": 684.7
+        }
+      }
+    },
+    "1:assets/images/clinic/clinic-5.jpeg": {
+      "src": "assets/images/clinic/clinic-5.jpeg",
+      "className": "hero__slide",
+      "sizes": {
+        "1440": {
+          "w": 848,
+          "h": 725.7
+        }
+      }
+    },
+    "2:assets/images/clinic/clinic-1.jpeg": {
+      "src": "assets/images/clinic/clinic-1.jpeg",
+      "className": "hero__slide",
+      "sizes": {
+        "1440": {
+          "w": 848,
+          "h": 725.7
+        }
+      }
+    },
+    "3:assets/images/services/root-canal.svg": {
+      "src": "assets/images/services/root-canal.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "1440": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "4:assets/images/services/teeth-whitening.svg": {
+      "src": "assets/images/services/teeth-whitening.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "1440": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "5:assets/images/services/complete-denture.svg": {
+      "src": "assets/images/services/complete-denture.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "1440": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "6:assets/images/services/dental-implants.svg": {
+      "src": "assets/images/services/dental-implants.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "1440": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "7:assets/images/services/orthodontic-treatment.svg": {
+      "src": "assets/images/services/orthodontic-treatment.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "1440": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "8:assets/images/clinic/clinic-5.jpeg": {
+      "src": "assets/images/clinic/clinic-5.jpeg",
+      "className": "about__slide is-active",
+      "sizes": {
+        "1440": {
+          "w": 460,
+          "h": 563.5
+        }
+      }
+    },
+    "9:assets/images/clinic/dr-manish-desk.jpeg": {
+      "src": "assets/images/clinic/dr-manish-desk.jpeg",
+      "className": "about__slide",
+      "sizes": {
+        "1440": {
+          "w": 478.4,
+          "h": 586
+        }
+      }
+    },
+    "10:assets/images/clinic/clinic-2.jpeg": {
+      "src": "assets/images/clinic/clinic-2.jpeg",
+      "className": "",
+      "sizes": {
+        "1440": {
+          "w": 541.5,
+          "h": 618.9
+        }
+      }
+    },
+    "0:assets/images/logo/dental-logo.png": {
+      "src": "assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        }
+      }
+    },
+    "1:assets/images/clinic/clinic-4.jpeg": {
+      "src": "assets/images/clinic/clinic-4.jpeg",
+      "className": "hero__slide is-active",
+      "sizes": {
+        "360": {
+          "w": 362,
+          "h": 300
+        },
+        "768": {
+          "w": 770,
+          "h": 300
+        }
+      }
+    },
+    "2:assets/images/clinic/clinic-5.jpeg": {
+      "src": "assets/images/clinic/clinic-5.jpeg",
+      "className": "hero__slide",
+      "sizes": {
+        "360": {
+          "w": 383.7,
+          "h": 318
+        },
+        "768": {
+          "w": 816.2,
+          "h": 318
+        }
+      }
+    },
+    "3:assets/images/clinic/clinic-1.jpeg": {
+      "src": "assets/images/clinic/clinic-1.jpeg",
+      "className": "hero__slide",
+      "sizes": {
+        "360": {
+          "w": 383.7,
+          "h": 318
+        },
+        "768": {
+          "w": 816.2,
+          "h": 318
+        }
+      }
+    },
+    "4:assets/images/services/root-canal.svg": {
+      "src": "assets/images/services/root-canal.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "360": {
+          "w": 80,
+          "h": 80
+        },
+        "768": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "5:assets/images/services/teeth-whitening.svg": {
+      "src": "assets/images/services/teeth-whitening.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "360": {
+          "w": 80,
+          "h": 80
+        },
+        "768": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "6:assets/images/services/complete-denture.svg": {
+      "src": "assets/images/services/complete-denture.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "360": {
+          "w": 80,
+          "h": 80
+        },
+        "768": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "7:assets/images/services/dental-implants.svg": {
+      "src": "assets/images/services/dental-implants.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "360": {
+          "w": 80,
+          "h": 80
+        },
+        "768": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "8:assets/images/services/orthodontic-treatment.svg": {
+      "src": "assets/images/services/orthodontic-treatment.svg",
+      "className": "svc-card__img",
+      "sizes": {
+        "360": {
+          "w": 80,
+          "h": 80
+        },
+        "768": {
+          "w": 92,
+          "h": 92
+        }
+      }
+    },
+    "9:assets/images/clinic/clinic-5.jpeg": {
+      "src": "assets/images/clinic/clinic-5.jpeg",
+      "className": "about__slide is-active",
+      "sizes": {
+        "360": {
+          "w": 320,
+          "h": 392
+        },
+        "768": {
+          "w": 420,
+          "h": 514.5
+        }
+      }
+    },
+    "10:assets/images/clinic/dr-manish-desk.jpeg": {
+      "src": "assets/images/clinic/dr-manish-desk.jpeg",
+      "className": "about__slide",
+      "sizes": {
+        "360": {
+          "w": 332.8,
+          "h": 407.7
+        },
+        "768": {
+          "w": 436.8,
+          "h": 535.1
+        }
+      }
+    },
+    "11:assets/images/clinic/clinic-2.jpeg": {
+      "src": "assets/images/clinic/clinic-2.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 360,
+          "h": 220
+        },
+        "768": {
+          "w": 768,
+          "h": 220
+        }
+      }
+    },
+    "12:assets/images/clinic/clinic-1.jpeg": {
+      "src": "assets/images/clinic/clinic-1.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "13:assets/images/clinic/clinic-2.jpeg": {
+      "src": "assets/images/clinic/clinic-2.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "14:assets/images/clinic/clinic-3.jpeg": {
+      "src": "assets/images/clinic/clinic-3.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "15:assets/images/clinic/clinic-4.jpeg": {
+      "src": "assets/images/clinic/clinic-4.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "16:assets/images/clinic/clinic-5.jpeg": {
+      "src": "assets/images/clinic/clinic-5.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "17:assets/images/clinic/clinic-6.jpeg": {
+      "src": "assets/images/clinic/clinic-6.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "18:assets/images/clinic/clinic-7.jpeg": {
+      "src": "assets/images/clinic/clinic-7.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "19:assets/images/clinic/clinic-8.jpeg": {
+      "src": "assets/images/clinic/clinic-8.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "20:assets/images/clinic/clinic-9.jpeg": {
+      "src": "assets/images/clinic/clinic-9.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "21:assets/images/clinic/clinic-10.jpeg": {
+      "src": "assets/images/clinic/clinic-10.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "22:assets/images/clinic/clinic-11.jpeg": {
+      "src": "assets/images/clinic/clinic-11.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "23:assets/images/clinic/clinic-12.jpeg": {
+      "src": "assets/images/clinic/clinic-12.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "24:assets/images/clinic/clinic-13.jpeg": {
+      "src": "assets/images/clinic/clinic-13.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "25:assets/images/clinic/clinic-14.jpeg": {
+      "src": "assets/images/clinic/clinic-14.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "26:assets/images/clinic/clinic-15.jpeg": {
+      "src": "assets/images/clinic/clinic-15.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "27:assets/images/clinic/clinic-16.jpeg": {
+      "src": "assets/images/clinic/clinic-16.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "28:assets/images/clinic/clinic-17.jpeg": {
+      "src": "assets/images/clinic/clinic-17.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        }
+      }
+    },
+    "29:": {
+      "src": "",
+      "className": "lightbox__img",
+      "sizes": {
+        "360": {
+          "w": 0,
+          "h": 0
+        },
+        "768": {
+          "w": 0,
+          "h": 0
+        }
+      }
+    }
+  },
+  "doctor.html": {
+    "0:assets/images/logo/dental-logo.png": {
+      "src": "assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:assets/images/clinic/dr-manish-desk.jpeg": {
+      "src": "assets/images/clinic/dr-manish-desk.jpeg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 320,
+          "h": 392
+        },
+        "768": {
+          "w": 380,
+          "h": 465.5
+        },
+        "1440": {
+          "w": 440,
+          "h": 539
+        }
+      }
+    },
+    "2:assets/images/awards/award-1.jpg": {
+      "src": "assets/images/awards/award-1.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "3:assets/images/awards/award-2.jpg": {
+      "src": "assets/images/awards/award-2.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "4:assets/images/awards/award-3.jpg": {
+      "src": "assets/images/awards/award-3.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "5:assets/images/awards/award-4.jpg": {
+      "src": "assets/images/awards/award-4.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "6:assets/images/awards/award-5.jpg": {
+      "src": "assets/images/awards/award-5.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "7:assets/images/awards/award-6.jpg": {
+      "src": "assets/images/awards/award-6.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "8:assets/images/awards/award-7.jpg": {
+      "src": "assets/images/awards/award-7.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "9:assets/images/awards/award-8.jpg": {
+      "src": "assets/images/awards/award-8.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "10:assets/images/awards/award-9.jpg": {
+      "src": "assets/images/awards/award-9.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "11:assets/images/awards/award-10.jpg": {
+      "src": "assets/images/awards/award-10.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 328,
+          "h": 252.3
+        },
+        "768": {
+          "w": 354,
+          "h": 272.3
+        },
+        "1440": {
+          "w": 408.7,
+          "h": 314.3
+        }
+      }
+    },
+    "12:": {
+      "src": "",
+      "className": "lightbox__img",
+      "sizes": {
+        "360": {
+          "w": 0,
+          "h": 0
+        },
+        "768": {
+          "w": 0,
+          "h": 0
+        },
+        "1440": {
+          "w": 0,
+          "h": 0
+        }
+      }
+    }
+  },
+  "contact.html": {
+    "0:assets/images/logo/dental-logo.png": {
+      "src": "assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:assets/images/contact/contact-hero.jpg": {
+      "src": "assets/images/contact/contact-hero.jpg",
+      "className": "contact-hero__img",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 280
+        },
+        "768": {
+          "w": 726,
+          "h": 440
+        },
+        "1440": {
+          "w": 588.1,
+          "h": 440
+        }
+      }
+    }
+  },
+  "treatments/cast-partial-denture.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/cast-partial-denture-hero.jpg": {
+      "src": "../assets/images/services/cast-partial-denture-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/cast-partial-denture-model.jpg": {
+      "src": "../assets/images/services/cast-partial-denture-model.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 178.9
+        },
+        "768": {
+          "w": 726,
+          "h": 408.4
+        },
+        "1440": {
+          "w": 574,
+          "h": 322.9
+        }
+      }
+    }
+  },
+  "treatments/ceramic-crown-and-bridge.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/ceramic-crown-bridge-hero.jpg": {
+      "src": "../assets/images/services/ceramic-crown-bridge-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/crown-bridge-hero.jpg": {
+      "src": "../assets/images/services/crown-bridge-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    },
+    "3:../assets/images/services/ceramic-crown-bridge-aesthetic.jpg": {
+      "src": "../assets/images/services/ceramic-crown-bridge-aesthetic.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 0
+        },
+        "768": {
+          "w": 726,
+          "h": 0
+        },
+        "1440": {
+          "w": 574,
+          "h": 0
+        }
+      }
+    },
+    "4:../assets/images/services/ceramic-crown-bridge-aftercare.jpg": {
+      "src": "../assets/images/services/ceramic-crown-bridge-aftercare.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 0
+        },
+        "768": {
+          "w": 726,
+          "h": 0
+        },
+        "1440": {
+          "w": 574,
+          "h": 0
+        }
+      }
+    }
+  },
+  "treatments/childrens-dentistry.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/child-dental-hero.jpg": {
+      "src": "../assets/images/services/child-dental-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/childrens-dentistry-hero.jpg": {
+      "src": "../assets/images/services/childrens-dentistry-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/complete-denture.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/complete-denture-consultation.jpg": {
+      "src": "../assets/images/services/complete-denture-consultation.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/dentures-hero.jpg": {
+      "src": "../assets/images/services/dentures-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/dental-implants.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/dental-implants-procedure.jpg": {
+      "src": "../assets/images/services/dental-implants-procedure.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/dental-implants-hero.jpg": {
+      "src": "../assets/images/services/dental-implants-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/filling-of-decayed-teeth.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/filling-procedure-hero.jpg": {
+      "src": "../assets/images/services/filling-procedure-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/tooth-filling-hero.jpg": {
+      "src": "../assets/images/services/tooth-filling-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/oral-lesions-diagnosis.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/root-canal-detail.jpg": {
+      "src": "../assets/images/services/root-canal-detail.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/oral-lesions-overview.jpg": {
+      "src": "../assets/images/services/oral-lesions-overview.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 397.5
+        },
+        "768": {
+          "w": 358,
+          "h": 447.5
+        },
+        "1440": {
+          "w": 398,
+          "h": 497.5
+        }
+      }
+    },
+    "3:../assets/images/services/oral-lesions-consultation.jpg": {
+      "src": "../assets/images/services/oral-lesions-consultation.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 0,
+          "h": 0
+        },
+        "768": {
+          "w": 0,
+          "h": 0
+        },
+        "1440": {
+          "w": 0,
+          "h": 0
+        }
+      }
+    },
+    "4:../assets/images/services/oral-mucosal-care-precautions.jpg": {
+      "src": "../assets/images/services/oral-mucosal-care-precautions.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 0,
+          "h": 0
+        },
+        "768": {
+          "w": 0,
+          "h": 0
+        },
+        "1440": {
+          "w": 0,
+          "h": 0
+        }
+      }
+    }
+  },
+  "treatments/orthodontics.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/orthodontics-transformation-hero.jpg": {
+      "src": "../assets/images/services/orthodontics-transformation-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/orthodontics-hero.jpg": {
+      "src": "../assets/images/services/orthodontics-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/periodontal-flap-surgery.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/periodontal-surgery-hero.jpg": {
+      "src": "../assets/images/services/periodontal-surgery-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 278,
+          "h": 347.5
+        },
+        "768": {
+          "w": 278,
+          "h": 347.5
+        },
+        "1440": {
+          "w": 316,
+          "h": 395
+        }
+      }
+    },
+    "2:../assets/images/services/scaling-hero.jpg": {
+      "src": "../assets/images/services/scaling-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    },
+    "3:../assets/images/services/scaling-hero.jpg": {
+      "src": "../assets/images/services/scaling-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    },
+    "4:../assets/images/services/periodontal-surgery-aftercare.jpg": {
+      "src": "../assets/images/services/periodontal-surgery-aftercare.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 0
+        },
+        "768": {
+          "w": 726,
+          "h": 0
+        },
+        "1440": {
+          "w": 574,
+          "h": 0
+        }
+      }
+    }
+  },
+  "treatments/removable-partial-denture.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/removable-partial-denture-hero.jpg": {
+      "src": "../assets/images/services/removable-partial-denture-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/dentures-hero.jpg": {
+      "src": "../assets/images/services/dentures-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/root-canal-treatment.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/root-canal-treatment-hero.jpg": {
+      "src": "../assets/images/services/root-canal-treatment-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/root-canal-detail.jpg": {
+      "src": "../assets/images/services/root-canal-detail.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    },
+    "3:../assets/images/services/root-canal-hero.jpg": {
+      "src": "../assets/images/services/root-canal-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 282,
+          "h": 0
+        },
+        "768": {
+          "w": 638,
+          "h": 0
+        },
+        "1440": {
+          "w": 562.6,
+          "h": 0
+        }
+      }
+    }
+  },
+  "treatments/teeth-cleaning-scaling.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/ultrasonic-scaling-hero.jpg": {
+      "src": "../assets/images/services/ultrasonic-scaling-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/scaling-hero.jpg": {
+      "src": "../assets/images/services/scaling-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  },
+  "treatments/teeth-whitening.html": {
+    "0:../assets/images/logo/dental-logo.png": {
+      "src": "../assets/images/logo/dental-logo.png",
+      "className": "brand__logo",
+      "sizes": {
+        "360": {
+          "w": 142.1,
+          "h": 38
+        },
+        "768": {
+          "w": 157.1,
+          "h": 42
+        },
+        "1440": {
+          "w": 194.5,
+          "h": 52
+        }
+      }
+    },
+    "1:../assets/images/services/teeth-whitening-before-after.jpg": {
+      "src": "../assets/images/services/teeth-whitening-before-after.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 238.5
+        },
+        "768": {
+          "w": 726,
+          "h": 544.5
+        },
+        "1440": {
+          "w": 487.6,
+          "h": 365.7
+        }
+      }
+    },
+    "2:../assets/images/services/teeth-whitening-hero.jpg": {
+      "src": "../assets/images/services/teeth-whitening-hero.jpg",
+      "className": "",
+      "sizes": {
+        "360": {
+          "w": 318,
+          "h": 237.4
+        },
+        "768": {
+          "w": 726,
+          "h": 542.1
+        },
+        "1440": {
+          "w": 574,
+          "h": 428.6
+        }
+      }
+    }
+  }
+}

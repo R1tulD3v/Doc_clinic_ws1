@@ -1,0 +1,5 @@
+*.md
+assets/clinic *.jpeg
+_*.html
+scratch
+assets/images/awards/*_orig.jpg

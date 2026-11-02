@@ -1,0 +1,56 @@
+[
+  {
+    "file": "js\\clinic-data.js",
+    "line": 259,
+    "word": "सबसे अच्छ",
+    "content": "hi: \"यह आपके मसूड़ों और जबड़े की हड्डी की सेहत पर निर्भर करता है। डॉ० मनीष कुमार जाँच करके सबसे अच्छा विकल्प बताएँगे।\" } },"
+  },
+  {
+    "file": "terms.html",
+    "line": 121,
+    "word": "गारंटी",
+    "content": "गारंटी नहीं दी जाती। कृपया डॉक्टर के निर्देशों का पालन करें और केवल लिखी गई दवाएँ ही लें।</p>"
+  },
+  {
+    "file": "terms.html",
+    "line": 141,
+    "word": "गारंटी",
+    "content": "<p>हम इस वेबसाइट की जानकारी को सही और अद्यतन रखने का प्रयास करते हैं, लेकिन इसके पूर्ण या त्रुटिरहित होने की गारंटी नहीं"
+  },
+  {
+    "file": "treatments\\ceramic-crown-and-bridge.html",
+    "line": 324,
+    "word": "सबसे अच्छ",
+    "content": "<p><span class=\"lang-en\">A dental bridge relies on shaping the two adjacent teeth to support an artificial tooth in the middle. A dental implant is placed directly into the jawbone without needing to touch neighbouring teeth. Dr. Manish Kumar will advise the most suitable option based on your jawbone and teeth health.</span><span class=\"lang-hi\">ब्रिज में अगल-बगल के दाँतों का सहारा लिया जाता है, जबकि इम्प्लांट जबड़े की हड्डी में लगाया जाता है। डॉक्टर आपकी स्थिति देखकर सबसे अच्छा विकल्प बताते हैं।</span></p>"
+  },
+  {
+    "file": "treatments\\childrens-dentistry.html",
+    "line": 217,
+    "word": "सबसे अच्छ",
+    "content": "<p><span class=\"lang-en\">It is recommended to bring your child when their first tooth appears or by their first birthday, and for regular 6-month check-ups thereafter.</span><span class=\"lang-hi\">पहले दाँत के निकलने पर या 1 वर्ष की उम्र में पहली जाँच कराना सबसे अच्छा रहता है।</span></p>"
+  },
+  {
+    "file": "treatments\\dental-implants.html",
+    "line": 149,
+    "word": "बिना दर्द",
+    "content": "<p><span class=\"lang-en\">Gentle, precise positioning of the titanium root under local anaesthesia.</span><span class=\"lang-hi\">सुन्न करके बिना दर्द के टाइटेनियम इम्प्लांट लगाना।</span></p>"
+  },
+  {
+    "file": "treatments\\oral-lesions-diagnosis.html",
+    "line": 313,
+    "word": "बिना दर्द",
+    "content": "<p><span class=\"lang-en\">Any ulcer or painless sore that lasts longer than 2 weeks, bleeds on light touch, is hard to the touch, or is accompanied by a red/white patch or neck swelling should be examined without delay by a dentist.</span><span class=\"lang-hi\">यदि कोई छाला 2 हफ़्ते से ज़्यादा रहे, बिना दर्द के कड़ा लगे, या उसमें से खून आए तो बिना देर किए तुरंत डेंटिस्ट से जाँच करवानी चाहिए।</span></p>"
+  },
+  {
+    "file": "treatments\\periodontal-flap-surgery.html",
+    "line": 287,
+    "word": "बिल्कुल दर्द नहीं",
+    "content": "<p><span class=\"lang-en\">No. The procedure is performed under effective local anaesthesia, so you will feel pressure but no pain during the surgery. Mild tenderness for 2–3 days afterwards is normal and easily managed with prescribed medications.</span><span class=\"lang-hi\">नहीं, सर्जरी लोकल एनेस्थीसिया देकर की जाती है जिससे इलाज के दौरान बिल्कुल दर्द नहीं होता। बाद में हल्का दर्द दवाइयों से आसानी से ठीक हो जाता है।</span></p>"
+  },
+  {
+    "file": "treatments\\teeth-cleaning-scaling.html",
+    "line": 174,
+    "word": "बिना दर्द",
+    "content": "<p><span class=\"lang-en\">Dislodges hardened calculus from tight interdental spaces and behind teeth where normal brushes cannot reach.</span><span class=\"lang-hi\">दाँतों के बीच और पीछे फंसी सख्त पथरी को बिना दर्द के पूरी तरह अलग करता है।</span></p>"
+  }
+]

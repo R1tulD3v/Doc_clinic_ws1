@@ -1,0 +1,443 @@
+{
+  "pageAudit": {
+    "index.html": {
+      "title": "Dentist in Khagaria | Dr. Manish Kumar - Dental Care",
+      "titleLen": 52,
+      "metaDesc": "Dental Care, Mill Rd, Khagaria: RCT, dental implants, braces &amp; more by Dr. Manish Kumar, Oral &amp; Dental Surgeon, 12+ years experience. Call now.",
+      "metaDescLen": 151,
+      "canonical": "./",
+      "ogUrl": "https://dental-care-khagaria.vercel.app/",
+      "jsonLdUrls": [
+        "https://dental-care-khagaria.vercel.app/#clinic",
+        "https://dental-care-khagaria.vercel.app/",
+        "https://dental-care-khagaria.vercel.app/doctor#dr-manish-kumar"
+      ],
+      "khagariaCount": 7
+    },
+    "doctor.html": {
+      "title": "Dr. Manish Kumar — Dentist in Khagaria | Dental Care",
+      "titleLen": 52,
+      "metaDesc": "Meet Dr. Manish Kumar, Oral &amp; Dental Surgeon at Dental Care, Mill Rd, Khagaria. B.D.S., certified in Orthodontics, 12+ years of experience. Call now.",
+      "metaDescLen": 153,
+      "canonical": "https://dental-care-khagaria.vercel.app/doctor",
+      "ogUrl": "https://dental-care-khagaria.vercel.app/doctor",
+      "jsonLdUrls": [
+        "https://dental-care-khagaria.vercel.app/doctor#dr-manish-kumar",
+        "https://dental-care-khagaria.vercel.app/doctor",
+        "https://dental-care-khagaria.vercel.app/#clinic"
+      ],
+      "khagariaCount": 2
+    },
+    "services.html": {
+      "title": "Dental Treatments in Khagaria — Root Canal, Implants, Braces | Dental Care",
+      "titleLen": 74,
+      "metaDesc": "All 13 dental treatments at Dental Care, Mill Road, Khagaria: root canal, dental implants, braces, dentures, crowns &amp; bridges, teeth whitening, scaling, fillings, gum surgery and children",
+      "metaDescLen": 191,
+      "canonical": "https://dental-care-khagaria.vercel.app/services",
+      "ogUrl": "https://dental-care-khagaria.vercel.app/services",
+      "jsonLdUrls": [
+        "https://dental-care-khagaria.vercel.app/services",
+        "https://dental-care-khagaria.vercel.app/#clinic",
+        "https://dental-care-khagaria.vercel.app/services#root-canal",
+        "https://dental-care-khagaria.vercel.app/services#children-dentistry",
+        "https://dental-care-khagaria.vercel.app/services#tooth-filling",
+        "https://dental-care-khagaria.vercel.app/services#teeth-whitening",
+        "https://dental-care-khagaria.vercel.app/services#complete-denture",
+        "https://dental-care-khagaria.vercel.app/services#removable-partial-denture",
+        "https://dental-care-khagaria.vercel.app/services#cast-partial-denture",
+        "https://dental-care-khagaria.vercel.app/services#crown-bridge",
+        "https://dental-care-khagaria.vercel.app/services#ultrasonic-scaling",
+        "https://dental-care-khagaria.vercel.app/services#dental-implants",
+        "https://dental-care-khagaria.vercel.app/services#orthodontic-treatment",
+        "https://dental-care-khagaria.vercel.app/services#periodontal-surgery",
+        "https://dental-care-khagaria.vercel.app/services#oral-lesions"
+      ],
+      "khagariaCount": 0
+    },
+    "contact.html": {
+      "title": "Contact Us — Dental Care | Dr. Manish Kumar, Khagaria",
+      "titleLen": 53,
+      "metaDesc": "Contact Dental Care on Mill Road, Khagaria. Dr. Manish Kumar, Oral &amp; Dental Surgeon. Call +91 70912 38383 or visit us in front of Bala Ji TELCOM.",
+      "metaDescLen": 149,
+      "canonical": "https://dental-care-khagaria.vercel.app/contact",
+      "ogUrl": "https://dental-care-khagaria.vercel.app/contact",
+      "jsonLdUrls": [
+        "https://dental-care-khagaria.vercel.app/contact",
+        "https://dental-care-khagaria.vercel.app/#clinic"
+      ],
+      "khagariaCount": 3
+    },
+    "privacy-policy.html": {
+      "title": "Privacy Policy | Dental Care Khagaria",
+      "titleLen": 37,
+      "metaDesc": "Privacy Policy of the Dental Care clinic website, Mill Road, Khagaria.",
+      "metaDescLen": 70,
+      "canonical": "https://dental-care-khagaria.vercel.app/privacy-policy",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "terms.html": {
+      "title": "Terms of Use | Dental Care Khagaria",
+      "titleLen": 35,
+      "metaDesc": "Terms of Use of the Dental Care clinic website, Mill Road, Khagaria.",
+      "metaDescLen": 68,
+      "canonical": "https://dental-care-khagaria.vercel.app/terms",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "treatments/cast-partial-denture.html": {
+      "title": "Cast Partial Denture (CPD) in Khagaria | Dental Care",
+      "titleLen": 52,
+      "metaDesc": "Strong, ultra-thin cast partial dentures (CPD) in Khagaria by Dr. Manish Kumar. Metal-framed precision dentures offering superior strength, fit, and comfort.",
+      "metaDescLen": 157,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/cast-partial-denture",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 3
+    },
+    "treatments/ceramic-crown-and-bridge.html": {
+      "title": "Ceramic Crown & Bridge in Khagaria | Dental Care",
+      "titleLen": 48,
+      "metaDesc": "Ceramic crowns and fixed bridges in Khagaria at Dental Care. Protect treated teeth and replace missing teeth with natural-looking restorations.",
+      "metaDescLen": 143,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/ceramic-crown-and-bridge",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 1
+    },
+    "treatments/childrens-dentistry.html": {
+      "title": "Children's Dentistry in Khagaria | Dental Care",
+      "titleLen": 46,
+      "metaDesc": "Gentle pediatric dental care in Khagaria by Dr. Manish Kumar. Milk teeth fillings, preventive check-ups and habit counseling for kids.",
+      "metaDescLen": 134,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/childrens-dentistry",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 4
+    },
+    "treatments/complete-denture.html": {
+      "title": "Complete Denture in Khagaria | Dental Care",
+      "titleLen": 42,
+      "metaDesc": "Custom-crafted complete dentures in Khagaria by Dr. Manish Kumar. Comfortable, natural-looking full dentures for eating, speaking, and smiling with confidence.",
+      "metaDescLen": 159,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/complete-denture",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 4
+    },
+    "treatments/dental-implants.html": {
+      "title": "Dental Implants in Khagaria | Dental Care",
+      "titleLen": 41,
+      "metaDesc": "Dental implants in Khagaria by Dr. Manish Kumar, Oral &amp; Dental Surgeon. Replace missing teeth with natural-feeling, fixed implants. Call now.",
+      "metaDescLen": 145,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/dental-implants",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "treatments/filling-of-decayed-teeth.html": {
+      "title": "Tooth Filling in Khagaria | Dental Care",
+      "titleLen": 39,
+      "metaDesc": "Tooth-coloured dental fillings in Khagaria by Dr. Manish Kumar. Stop cavities from spreading and restore your tooth with composite fillings.",
+      "metaDescLen": 140,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/filling-of-decayed-teeth",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 0
+    },
+    "treatments/oral-lesions-diagnosis.html": {
+      "title": "Oral Lesion Diagnosis in Khagaria | Dental Care",
+      "titleLen": 47,
+      "metaDesc": "Diagnosis of mouth ulcers, white patches and red spots in Khagaria by Dr. Manish Kumar. Early detection and safe clinical management.",
+      "metaDescLen": 133,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/oral-lesions-diagnosis",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "treatments/orthodontics.html": {
+      "title": "Braces & Orthodontics in Khagaria | Dental Care",
+      "titleLen": 47,
+      "metaDesc": "Braces treatment in Khagaria by Dr. Manish Kumar, certified in Orthodontics. Straighten crooked teeth, close gaps and correct bite issues.",
+      "metaDescLen": 138,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/orthodontics",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 1
+    },
+    "treatments/periodontal-flap-surgery.html": {
+      "title": "Gum (Periodontal) Surgery in Khagaria | Dental Care",
+      "titleLen": 51,
+      "metaDesc": "Gum disease and periodontal flap surgery in Khagaria at Dental Care. Treat bleeding gums, deep pockets and loose teeth to save natural teeth.",
+      "metaDescLen": 141,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/periodontal-flap-surgery",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 1
+    },
+    "treatments/removable-partial-denture.html": {
+      "title": "Removable Partial Denture in Khagaria | Dental Care",
+      "titleLen": 51,
+      "metaDesc": "Affordable removable partial dentures in Khagaria by Dr. Manish Kumar. Replace one or more missing teeth with an easy-to-clean custom denture.",
+      "metaDescLen": 142,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/removable-partial-denture",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "treatments/root-canal-treatment.html": {
+      "title": "Root Canal Treatment (RCT) in Khagaria | Dental Care",
+      "titleLen": 52,
+      "metaDesc": "Gentle root canal treatment in Khagaria by Dr. Manish Kumar. Relieve toothache, treat pulp infection and save your natural tooth.",
+      "metaDescLen": 129,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/root-canal-treatment",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 2
+    },
+    "treatments/teeth-cleaning-scaling.html": {
+      "title": "Teeth Cleaning &amp; Scaling in Khagaria | Dental Care",
+      "titleLen": 54,
+      "metaDesc": "Ultrasonic teeth cleaning and scaling in Khagaria by Dr. Manish Kumar. Remove stubborn tartar, stop bleeding gums, reduce bad breath, and protect teeth safely.",
+      "metaDescLen": 159,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/teeth-cleaning-scaling",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 1
+    },
+    "treatments/teeth-whitening.html": {
+      "title": "Teeth Whitening in Khagaria | Dental Care",
+      "titleLen": 41,
+      "metaDesc": "Safe, professional teeth whitening in Khagaria by Dr. Manish Kumar. Remove tough tea, coffee, paan, and tobacco stains for a brighter, more confident smile.",
+      "metaDescLen": 156,
+      "canonical": "https://dental-care-khagaria.vercel.app/treatments/teeth-whitening",
+      "ogUrl": "",
+      "jsonLdUrls": [],
+      "khagariaCount": 0
+    }
+  },
+  "sitemapUrls": [
+    "https://dental-care-khagaria.vercel.app/",
+    "https://dental-care-khagaria.vercel.app/services",
+    "https://dental-care-khagaria.vercel.app/doctor",
+    "https://dental-care-khagaria.vercel.app/contact",
+    "https://dental-care-khagaria.vercel.app/privacy-policy",
+    "https://dental-care-khagaria.vercel.app/terms"
+  ],
+  "implantologistHits": [
+    {
+      "file": "index.html",
+      "lineNum": 45,
+      "location": "visible text",
+      "context": "\"description\": \"Dental clinic on Mill Road, Khagaria by Dr. Manish Kumar — B.D.S. (V.B.U.), M.I.D.A., Cert. Orthodontics, Oral Implantologist, Memb. ICOI, F.A.G.E. (Manipal). Root canal, implants, braces, dentures, crowns, scaling and children's dentistry.\","
+    },
+    {
+      "file": "index.html",
+      "lineNum": 420,
+      "location": "visible text",
+      "context": "</svg></span><span data-i18n=\"trust.2\">Oral Implantologist</span></li>"
+    },
+    {
+      "file": "doctor.html",
+      "lineNum": 24,
+      "location": "visible text",
+      "context": "content=\"Oral &amp; Dental Surgeon, Cert. Orthodontics, Oral Implantologist. 12+ years. Dental Care, Mill Road, Khagaria.\">"
+    },
+    {
+      "file": "doctor.html",
+      "lineNum": 34,
+      "location": "visible text",
+      "context": "\"description\": \"Dentist in Khagaria with 12+ years of experience. Certified in Orthodontics, Oral Implantologist.\","
+    },
+    {
+      "file": "doctor.html",
+      "lineNum": 59,
+      "location": "visible text",
+      "context": "\"name\": \"International Congress of Oral Implantologists (ICOI)\""
+    },
+    {
+      "file": "doctor.html",
+      "lineNum": 201,
+      "location": "visible text",
+      "context": "<li>Oral Implantologist</li>"
+    },
+    {
+      "file": "treatments/dental-implants.html",
+      "lineNum": 27,
+      "location": "visible text",
+      "context": "\"name\": \"Dental Care - Dr. Manish Kumar (Oral Implantologist, ICOI)\","
+    },
+    {
+      "file": "treatments/dental-implants.html",
+      "lineNum": 62,
+      "location": "visible text",
+      "context": "<span class=\"lang-en\">Certified Oral Implantologist (ICOI)</span><span class=\"lang-hi\">प्रमाणित ओरल इम्प्लांटोलॉजिस्ट</span>"
+    },
+    {
+      "file": "treatments/dental-implants.html",
+      "lineNum": 221,
+      "location": "visible text",
+      "context": "<span class=\"lang-en\">Consult Dr. Manish Kumar (Oral Implantologist) at Dental Care Khagaria today.</span>"
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 22,
+      "location": "JavaScript / data",
+      "context": "specializations: \"Oral Implantologist, Memb. ICOI, F.A.G.E. (Manipal)\","
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 176,
+      "location": "JavaScript / data",
+      "context": "subtitle: { en: \"Member, ICOI (International Congress of Oral Implantologists)\", hi: \"सदस्य, ICOI (इंटरनेशनल कांग्रेस ऑफ़ ओरल इम्प्लांटोलॉजिस्ट्स)\" }, photo: \"\" },"
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 213,
+      "location": "JavaScript / data",
+      "context": "text: { en: \"Certified in Orthodontics, Oral Implantologist, ICOI member and F.A.G.E. (Manipal).\", hi: \"ऑर्थोडॉन्टिक्स में प्रमाणित, ओरल इम्प्लांटोलॉजिस्ट, ICOI सदस्य और F.A.G.E. (मणिपाल)।\" } },"
+    },
+    {
+      "file": "js/i18n.js",
+      "lineNum": 36,
+      "location": "JavaScript / data",
+      "context": "'hero.card1': ['Oral Implantologist', 'ओरल इम्प्लांटोलॉजिस्ट'],"
+    },
+    {
+      "file": "js/i18n.js",
+      "lineNum": 263,
+      "location": "JavaScript / data",
+      "context": "'trust.2': ['Oral Implantologist', 'ओरल इम्प्लांटोलॉजिस्ट'],"
+    }
+  ],
+  "claimWordsHits": [
+    {
+      "file": "index.html",
+      "lineNum": 249,
+      "location": "visible text",
+      "matchedWords": [
+        "best"
+      ],
+      "sentence": "\"text\": \"It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.\""
+    },
+    {
+      "file": "doctor.html",
+      "lineNum": 141,
+      "location": "visible text",
+      "matchedWords": [
+        "best"
+      ],
+      "sentence": "\"text\": \"It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.\""
+    },
+    {
+      "file": "contact.html",
+      "lineNum": 251,
+      "location": "visible text",
+      "matchedWords": [
+        "Painless"
+      ],
+      "sentence": "Gentle &amp; Painless Dentistry"
+    },
+    {
+      "file": "terms.html",
+      "lineNum": 83,
+      "location": "visible text",
+      "matchedWords": [
+        "guarantee"
+      ],
+      "sentence": "We try to keep the information on this website accurate and up to date, but we do not guarantee that it"
+    },
+    {
+      "file": "treatments/dental-implants.html",
+      "lineNum": 190,
+      "location": "visible text",
+      "matchedWords": [
+        "pain-free"
+      ],
+      "sentence": "The procedure is performed under local anaesthesia and is completely pain-free. Most patients report feeling minimal discomfort afterwards. यह प्रक्रिया लोकल एनेस्थीसिया में की जाती है जिससे इलाज के दौरान बिल्कुल दर्द नहीं होता।"
+    },
+    {
+      "file": "treatments/oral-lesions-diagnosis.html",
+      "lineNum": 194,
+      "location": "visible text",
+      "matchedWords": [
+        "painless"
+      ],
+      "sentence": "We provide compassionate care and evidence-based guidance to help you protect your oral mucosal health, stop harmful habits, and enjoy painless eating and speaking."
+    },
+    {
+      "file": "treatments/oral-lesions-diagnosis.html",
+      "lineNum": 313,
+      "location": "visible text",
+      "matchedWords": [
+        "painless"
+      ],
+      "sentence": "Any ulcer or painless sore that lasts longer than 2 weeks, bleeds on light touch, is hard to the touch, or is accompanied by a red/white patch or neck swelling should be examined without delay by a dentist. यदि कोई छाला 2 हफ़्ते से ज़्यादा रहे, बिना दर्द के कड़ा लगे, या उसमें से खून आए तो बिना देर किए तुरंत डेंटिस्ट से जाँच करवानी चाहिए।"
+    },
+    {
+      "file": "treatments/teeth-cleaning-scaling.html",
+      "lineNum": 376,
+      "location": "visible text",
+      "matchedWords": [
+        "painless"
+      ],
+      "sentence": "State-of-the-art piezoelectric scalers ensuring quick, gentle, and virtually painless cleaning. आधुनिक अल्ट्रासोनिक मशीन जो बिना किसी दर्द या झटके के तेज़ी से साफ़ करती है।"
+    },
+    {
+      "file": "treatments/teeth-cleaning-scaling.html",
+      "lineNum": 460,
+      "location": "visible text",
+      "matchedWords": [
+        "painless"
+      ],
+      "sentence": "For most patients, ultrasonic scaling is virtually painless. You will feel mild vibration and a cooling water spray. If your gums are sensitive, Dr. Manish Kumar can apply a soothing numbing gel. अधिकांश लोगों के लिए यह प्रक्रिया दर्दरहित होती है। केवल हल्का कंपन और पानी महसूस होता है; अत्यधिक संवेदनशीलता में सुन्न करने वाला जेल लगाया जा सकता है।"
+    },
+    {
+      "file": "treatments/teeth-whitening.html",
+      "lineNum": 90,
+      "location": "visible text",
+      "matchedWords": [
+        "guarantee"
+      ],
+      "sentence": "Your gums and lips are carefully protected throughout the session to guarantee a safe, comfortable, and satisfying aesthetic result."
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 195,
+      "location": "JavaScript / data",
+      "matchedWords": [
+        "Best"
+      ],
+      "sentence": "{ src: \"assets/images/awards/award-5.jpg\", w: 682, h: 1024, caption: { en: \"Best Local Branch Khagaria — Dental Expo Patna 2025\", hi: \"सर्वश्रेष्ठ स्थानीय शाखा खगड़िया — डेंटल एक्सपो पटना 2025\" },"
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 196,
+      "location": "JavaScript / data",
+      "matchedWords": [
+        "Best"
+      ],
+      "sentence": "alt: { en: \"Best Local Branch Khagaria award plaque, Dental Expo Patna 2025\", hi: \"सर्वश्रेष्ठ स्थानीय शाखा खगड़िया — डेंटल एक्सपो पटना 2025\" } },"
+    },
+    {
+      "file": "js/clinic-data.js",
+      "lineNum": 258,
+      "location": "JavaScript / data",
+      "matchedWords": [
+        "best"
+      ],
+      "sentence": "a: { en: \"It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.\","
+    },
+    {
+      "file": "js/i18n.js",
+      "lineNum": 192,
+      "location": "JavaScript / data",
+      "matchedWords": [
+        "Painless"
+      ],
+      "sentence": "'ct.badge2Title': ['Gentle & Painless Dentistry', 'आरामदायक एवं दर्दरहित इलाज'],"
+    }
+  ]
+}

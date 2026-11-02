@@ -1,0 +1,260 @@
+[
+  {
+    "name": "services.html",
+    "title": "Dental Treatments in Khagaria — Root Canal, Implants, Braces | Dental Care",
+    "desc": "Explore all 13 dental treatments at Dental Care, Mill Road, Khagaria: root canal, implants, braces, dentures, crowns, scaling &amp; pediatric care by Dr. Manish Kumar.",
+    "canon": "https://dental-care-khagaria.vercel.app/services",
+    "h1": "Complete Dental Care in Khagaria Under One Roof",
+    "schemasTypes": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Treatment room at Dental Care, Khagaria",
+      "Root Canal Treatment at Dental Care, Khagaria",
+      "Children",
+      "Filling of Decayed Teeth at Dental Care, Khagaria",
+      "Teeth Whitening at Dental Care, Khagaria",
+      "Complete Denture at Dental Care, Khagaria",
+      "Removable Partial Denture at Dental Care, Khagaria",
+      "Cast Partial Denture at Dental Care, Khagaria",
+      "Ceramic Crown &amp; Bridge at Dental Care, Khagaria",
+      "Ultrasonic Scaling at Dental Care, Khagaria",
+      "Dental Implants at Dental Care, Khagaria",
+      "Braces (Orthodontics) at Dental Care, Khagaria",
+      "Gum (Periodontal) Surgery at Dental Care, Khagaria",
+      "Diagnosis of Oral Lesions at Dental Care, Khagaria",
+      "Sterilized dental instruments and modern clinic sterilization equipment at Dental Care, Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "cast-partial-denture.html",
+    "title": "Cast Partial Denture (CPD) in Khagaria | Metal Dentures | Dental Care",
+    "desc": "Strong cast partial dentures (CPD) in Khagaria by Dr. Manish Kumar at Dental Care. Precision thin metal-framed dentures offering superior grip, stability, and fit.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/cast-partial-denture",
+    "h1": "Cast Partial Dentures (CPD) in Khagaria मजबूत और पतले मेटल फ्रेम वाला कास्ट पार्शियल डेन्चर",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Cast partial denture at Dental Care Khagaria",
+      "Precision cast framework on dental model"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "ceramic-crown-and-bridge.html",
+    "title": "Ceramic Crown & Bridge in Khagaria | Dental Caps | Dental Care",
+    "desc": "Ceramic crowns and fixed dental bridges in Khagaria by Dr. Manish Kumar at Dental Care. Protect weak treated teeth and replace missing teeth with natural ceramic.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/ceramic-crown-and-bridge",
+    "h1": "Ceramic Crowns & Fixed Bridges in Khagaria कमज़ोर दाँतों की सुरक्षा और खाली जगह के लिए — सिरेमिक कैप एवं ब्रिज",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Ceramic dental crown and bridge restoration at Dental Care Khagaria",
+      "Aesthetic ceramic crowns ready for cementation",
+      "Ceramic crown and bridge aesthetic shade matching at Dental Care Khagaria",
+      "Dentist providing crown and bridge care consultation to patient at Dental Care Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "childrens-dentistry.html",
+    "title": "Children's Dentistry in Khagaria | Pediatric Dental Care | Dental Care",
+    "desc": "Gentle pediatric dental care in Khagaria by Dr. Manish Kumar at Dental Care. Milk tooth fillings, preventive check-ups, habit counseling, and friendly kid care.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/childrens-dentistry",
+    "h1": "Gentle Children's Dentistry in Khagaria बच्चों की स्वस्थ मुस्कान के लिए कोमल व सुरक्षित दंत चिकित्सा",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Happy child smiling in pediatric dental chair at Dental Care Khagaria",
+      "Child-friendly dental chair and instruments"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "complete-denture.html",
+    "title": "Complete Dentures in Khagaria | Full Denture Clinic | Dental Care",
+    "desc": "Custom complete dentures in Khagaria by Dr. Manish Kumar at Dental Care. Comfortable, natural-looking full dentures to restore chewing, speech, and confident smiles.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/complete-denture",
+    "h1": "Complete Dentures in Khagaria for a Confident Smile आरामदायक और प्राकृतिक दिखने वाली पूरी बत्तीसी (कम्प्लीट डेन्चर)",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Dentist explaining complete denture prosthesis to patient at Dental Care Khagaria",
+      "Full complete denture model"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "dental-implants.html",
+    "title": "Dental Implants in Khagaria | Permanent Fixed Teeth | Dental Care",
+    "desc": "Permanent dental implants in Khagaria by Dr. Manish Kumar, Oral Implantologist. Replace missing teeth with natural-looking, durable implants at Dental Care.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/dental-implants",
+    "h1": "Dental Implants in Khagaria for a Natural, Permanent Smile खोए दाँतों का स्थायी और फिक्स समाधान — डेंटल इम्प्लांट",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Dental implant clinical examination and consultation at Dental Care Khagaria",
+      "Dental implant precision tools and model"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "filling-of-decayed-teeth.html",
+    "title": "Tooth Filling in Khagaria | Cavity Treatment | Dental Care",
+    "desc": "Tooth-coloured dental fillings in Khagaria by Dr. Manish Kumar at Dental Care. Stop cavity decay early, restore tooth strength, and protect natural aesthetics.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/filling-of-decayed-teeth",
+    "h1": "Tooth-Coloured Dental Fillings in Khagaria दाँतों की मजबूती और प्राकृतिक रूप के लिए कंपोजिट फिलिंग",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Dentist performing dental filling procedure on patient at Dental Care Khagaria",
+      "Tooth filling procedure tray"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "oral-lesions-diagnosis.html",
+    "title": "Oral Lesion & Mouth Ulcer Diagnosis in Khagaria | Dental Care",
+    "desc": "Clinical diagnosis of mouth ulcers, white patches & oral lesions in Khagaria by Dr. Manish Kumar at Dental Care. Early detection and compassionate mucosal care.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/oral-lesions-diagnosis",
+    "h1": "Diagnosis of Oral Lesions & Mouth Ulcers in Khagaria मुँह के छाले, सफ़ेद दाग़ व घावों की समय पर जाँच — सुरक्षित स्वास्थ्य",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Clinical examination tools for oral mucosal health at Dental Care Khagaria",
+      "Oral mucosal lesion clinical examination and diagnostic screening at Dental Care Khagaria",
+      "Gentle non-judgmental patient oral consultation and clinical examination at Dental Care Khagaria",
+      "Oral mucosal care, precautions, and daily healing tips at Dental Care Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "orthodontics.html",
+    "title": "Braces & Orthodontics in Khagaria | Teeth Alignment | Dental Care",
+    "desc": "Orthodontic braces treatment in Khagaria by Dr. Manish Kumar, certified in Orthodontics. Straighten crooked teeth, close gaps, and align your bite at Dental Care.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/orthodontics",
+    "h1": "Braces & Orthodontic Treatment in Khagaria टेढ़े और आगे निकले दाँतों को सीधा करें — प्रमाणित ऑर्थोडॉन्टिक इलाज",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Orthodontic braces teeth alignment before and after result at Dental Care Khagaria",
+      "Orthodontic models and pliers"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "periodontal-flap-surgery.html",
+    "title": "Gum Disease & Periodontal Surgery in Khagaria | Dental Care",
+    "desc": "Advanced gum disease treatment and periodontal flap surgery in Khagaria at Dental Care. Treat bleeding gums, deep pockets, and loose teeth with Dr. Manish Kumar.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/periodontal-flap-surgery",
+    "h1": "Gum Disease Treatment & Periodontal Surgery in Khagaria मसूड़ों की बीमारी और हिलते दाँतों का आधुनिक इलाज — गम सर्जरी",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Gum health and periodontal treatment before and after result at Dental Care Khagaria",
+      "Periodontal evaluation equipment",
+      "Periodontal treatment operatory setup",
+      "Post-periodontal surgery recovery care and gentle dental treatment at Dental Care Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "removable-partial-denture.html",
+    "title": "Removable Partial Dentures in Khagaria | Dental Care",
+    "desc": "Affordable removable partial dentures in Khagaria by Dr. Manish Kumar at Dental Care. Replace one or more missing teeth with custom, easy-to-clean partial dentures.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/removable-partial-denture",
+    "h1": "Removable Partial Dentures in Khagaria खोए दाँतों की जगह आसान और किफायती आंशिक डेन्चर",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Dentist examining and explaining removable partial denture to patient at Dental Care Khagaria",
+      "Partial denture prosthetics"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "root-canal-treatment.html",
+    "title": "Root Canal Treatment (RCT) in Khagaria | Dental Care",
+    "desc": "Gentle root canal treatment (RCT) in Khagaria by Dr. Manish Kumar at Dental Care. Relieve severe toothache, clean infected pulp, and save your natural tooth.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/root-canal-treatment",
+    "h1": "Root Canal Treatment in Khagaria स्वस्थ और दर्द-मुक्त मुस्कान के लिए रूट कैनाल उपचार",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Root canal treatment at Dental Care Khagaria",
+      "Sterile precision endodontic instruments at Dental Care",
+      "Modern dental operatory at Dental Care Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "teeth-cleaning-scaling.html",
+    "title": "Teeth Cleaning & Scaling in Khagaria | Dental Care",
+    "desc": "Ultrasonic teeth cleaning and scaling in Khagaria at Dental Care. Remove tartar, eliminate bad breath, and stop bleeding gums safely with Dr. Manish Kumar.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/teeth-cleaning-scaling",
+    "h1": "Ultrasonic Teeth Cleaning & Scaling in Khagaria मसूड़ों की मजबूती और ताज़ी साँस के लिए अल्ट्रासोनिक स्केलिंग",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Ultrasonic dental scaling procedure at Dental Care Khagaria",
+      "Dental prophylaxis operatory at Dental Care Khagaria"
+    ],
+    "hasBreadcrumbs": false
+  },
+  {
+    "name": "teeth-whitening.html",
+    "title": "Teeth Whitening in Khagaria | Clinic Bleaching | Dental Care",
+    "desc": "Professional teeth whitening in Khagaria by Dr. Manish Kumar at Dental Care. Safely lift deep tea, coffee, paan, and tobacco stains for a radiant, whiter smile.",
+    "canon": "https://dental-care-khagaria.vercel.app/treatments/teeth-whitening",
+    "h1": "Professional Teeth Whitening in Khagaria चमकदार और आत्मविश्वासी मुस्कान के लिए प्रोफेशनल टीथ व्हाइटनिंग",
+    "schemasTypes": [
+      "MedicalProcedure",
+      "BreadcrumbList"
+    ],
+    "hasOg": true,
+    "imgAlts": [
+      "Professional teeth whitening before and after results at Dental Care Khagaria",
+      "Teeth whitening shade guide and light"
+    ],
+    "hasBreadcrumbs": false
+  }
+]

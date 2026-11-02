@@ -1,0 +1,287 @@
+=== IMPLANTOLOGIST OCCURRENCES ===
+1. [index.html (Line 45) - visible text]
+   ""description": "Dental clinic on Mill Road, Khagaria by Dr. Manish Kumar — B.D.S. (V.B.U.), M.I.D.A., Cert. Orthodontics, Oral Implantologist, Memb. ICOI, F.A.G.E. (Manipal). Root canal, implants, braces, dentures, crowns, scaling and children's dentistry.","
+
+2. [index.html (Line 420) - visible text]
+   "</svg></span><span data-i18n="trust.2">Oral Implantologist</span></li>"
+
+3. [doctor.html (Line 24) - visible text]
+   "content="Oral &amp; Dental Surgeon, Cert. Orthodontics, Oral Implantologist. 12+ years. Dental Care, Mill Road, Khagaria.">"
+
+4. [doctor.html (Line 34) - visible text]
+   ""description": "Dentist in Khagaria with 12+ years of experience. Certified in Orthodontics, Oral Implantologist.","
+
+5. [doctor.html (Line 59) - visible text]
+   ""name": "International Congress of Oral Implantologists (ICOI)""
+
+6. [doctor.html (Line 201) - visible text]
+   "<li>Oral Implantologist</li>"
+
+7. [treatments/dental-implants.html (Line 27) - visible text]
+   ""name": "Dental Care - Dr. Manish Kumar (Oral Implantologist, ICOI)","
+
+8. [treatments/dental-implants.html (Line 62) - visible text]
+   "<span class="lang-en">Certified Oral Implantologist (ICOI)</span><span class="lang-hi">प्रमाणित ओरल इम्प्लांटोलॉजिस्ट</span>"
+
+9. [treatments/dental-implants.html (Line 221) - visible text]
+   "<span class="lang-en">Consult Dr. Manish Kumar (Oral Implantologist) at Dental Care Khagaria today.</span>"
+
+10. [js/clinic-data.js (Line 22) - JavaScript / data]
+   "specializations: "Oral Implantologist, Memb. ICOI, F.A.G.E. (Manipal)","
+
+11. [js/clinic-data.js (Line 176) - JavaScript / data]
+   "subtitle: { en: "Member, ICOI (International Congress of Oral Implantologists)", hi: "सदस्य, ICOI (इंटरनेशनल कांग्रेस ऑफ़ ओरल इम्प्लांटोलॉजिस्ट्स)" }, photo: "" },"
+
+12. [js/clinic-data.js (Line 213) - JavaScript / data]
+   "text: { en: "Certified in Orthodontics, Oral Implantologist, ICOI member and F.A.G.E. (Manipal).", hi: "ऑर्थोडॉन्टिक्स में प्रमाणित, ओरल इम्प्लांटोलॉजिस्ट, ICOI सदस्य और F.A.G.E. (मणिपाल)।" } },"
+
+13. [js/i18n.js (Line 36) - JavaScript / data]
+   "'hero.card1': ['Oral Implantologist', 'ओरल इम्प्लांटोलॉजिस्ट'],"
+
+14. [js/i18n.js (Line 263) - JavaScript / data]
+   "'trust.2': ['Oral Implantologist', 'ओरल इम्प्लांटोलॉजिस्ट'],"
+
+
+=== CLAIM WORDS OCCURRENCES ===
+1. [index.html (Line 249) - [best] - visible text]
+   ""text": "It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.""
+
+2. [doctor.html (Line 141) - [best] - visible text]
+   ""text": "It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.""
+
+3. [contact.html (Line 251) - [Painless] - visible text]
+   "Gentle &amp; Painless Dentistry"
+
+4. [terms.html (Line 83) - [guarantee] - visible text]
+   "We try to keep the information on this website accurate and up to date, but we do not guarantee that it"
+
+5. [treatments/dental-implants.html (Line 190) - [pain-free] - visible text]
+   "The procedure is performed under local anaesthesia and is completely pain-free. Most patients report feeling minimal discomfort afterwards. यह प्रक्रिया लोकल एनेस्थीसिया में की जाती है जिससे इलाज के दौरान बिल्कुल दर्द नहीं होता।"
+
+6. [treatments/oral-lesions-diagnosis.html (Line 194) - [painless] - visible text]
+   "We provide compassionate care and evidence-based guidance to help you protect your oral mucosal health, stop harmful habits, and enjoy painless eating and speaking."
+
+7. [treatments/oral-lesions-diagnosis.html (Line 313) - [painless] - visible text]
+   "Any ulcer or painless sore that lasts longer than 2 weeks, bleeds on light touch, is hard to the touch, or is accompanied by a red/white patch or neck swelling should be examined without delay by a dentist. यदि कोई छाला 2 हफ़्ते से ज़्यादा रहे, बिना दर्द के कड़ा लगे, या उसमें से खून आए तो बिना देर किए तुरंत डेंटिस्ट से जाँच करवानी चाहिए।"
+
+8. [treatments/teeth-cleaning-scaling.html (Line 376) - [painless] - visible text]
+   "State-of-the-art piezoelectric scalers ensuring quick, gentle, and virtually painless cleaning. आधुनिक अल्ट्रासोनिक मशीन जो बिना किसी दर्द या झटके के तेज़ी से साफ़ करती है।"
+
+9. [treatments/teeth-cleaning-scaling.html (Line 460) - [painless] - visible text]
+   "For most patients, ultrasonic scaling is virtually painless. You will feel mild vibration and a cooling water spray. If your gums are sensitive, Dr. Manish Kumar can apply a soothing numbing gel. अधिकांश लोगों के लिए यह प्रक्रिया दर्दरहित होती है। केवल हल्का कंपन और पानी महसूस होता है; अत्यधिक संवेदनशीलता में सुन्न करने वाला जेल लगाया जा सकता है।"
+
+10. [treatments/teeth-whitening.html (Line 90) - [guarantee] - visible text]
+   "Your gums and lips are carefully protected throughout the session to guarantee a safe, comfortable, and satisfying aesthetic result."
+
+11. [js/clinic-data.js (Line 195) - [Best] - JavaScript / data]
+   "{ src: "assets/images/awards/award-5.jpg", w: 682, h: 1024, caption: { en: "Best Local Branch Khagaria — Dental Expo Patna 2025", hi: "सर्वश्रेष्ठ स्थानीय शाखा खगड़िया — डेंटल एक्सपो पटना 2025" },"
+
+12. [js/clinic-data.js (Line 196) - [Best] - JavaScript / data]
+   "alt: { en: "Best Local Branch Khagaria award plaque, Dental Expo Patna 2025", hi: "सर्वश्रेष्ठ स्थानीय शाखा खगड़िया — डेंटल एक्सपो पटना 2025" } },"
+
+13. [js/clinic-data.js (Line 258) - [best] - JavaScript / data]
+   "a: { en: "It depends on your gum and jaw-bone health. Dr. Manish Kumar will examine you and advise the best option.","
+
+14. [js/i18n.js (Line 192) - [Painless] - JavaScript / data]
+   "'ct.badge2Title': ['Gentle & Painless Dentistry', 'आरामदायक एवं दर्दरहित इलाज'],"
+
+
+=== SITEMAP URLS ===
+1. https://dental-care-khagaria.vercel.app/
+2. https://dental-care-khagaria.vercel.app/services
+3. https://dental-care-khagaria.vercel.app/doctor
+4. https://dental-care-khagaria.vercel.app/contact
+5. https://dental-care-khagaria.vercel.app/privacy-policy
+6. https://dental-care-khagaria.vercel.app/terms
+
+=== CANONICALS, OG:URL, JSON-LD PER PAGE ===
+
+--- index.html ---
+Title (52 chars): "Dentist in Khagaria | Dr. Manish Kumar - Dental Care"
+Meta Description (151 chars): "Dental Care, Mill Rd, Khagaria: RCT, dental implants, braces &amp; more by Dr. Manish Kumar, Oral &amp; Dental Surgeon, 12+ years experience. Call now."
+Canonical: ./
+og:url: https://dental-care-khagaria.vercel.app/
+JSON-LD URLs:
+  - https://dental-care-khagaria.vercel.app/#clinic
+  - https://dental-care-khagaria.vercel.app/
+  - https://dental-care-khagaria.vercel.app/doctor#dr-manish-kumar
+Visible "Khagaria" count: static body = 7
+
+--- doctor.html ---
+Title (52 chars): "Dr. Manish Kumar — Dentist in Khagaria | Dental Care"
+Meta Description (153 chars): "Meet Dr. Manish Kumar, Oral &amp; Dental Surgeon at Dental Care, Mill Rd, Khagaria. B.D.S., certified in Orthodontics, 12+ years of experience. Call now."
+Canonical: https://dental-care-khagaria.vercel.app/doctor
+og:url: https://dental-care-khagaria.vercel.app/doctor
+JSON-LD URLs:
+  - https://dental-care-khagaria.vercel.app/doctor#dr-manish-kumar
+  - https://dental-care-khagaria.vercel.app/doctor
+  - https://dental-care-khagaria.vercel.app/#clinic
+Visible "Khagaria" count: static body = 2
+
+--- services.html ---
+Title (74 chars): "Dental Treatments in Khagaria — Root Canal, Implants, Braces | Dental Care"
+Meta Description (191 chars): "All 13 dental treatments at Dental Care, Mill Road, Khagaria: root canal, dental implants, braces, dentures, crowns &amp; bridges, teeth whitening, scaling, fillings, gum surgery and children"
+Canonical: https://dental-care-khagaria.vercel.app/services
+og:url: https://dental-care-khagaria.vercel.app/services
+JSON-LD URLs:
+  - https://dental-care-khagaria.vercel.app/services
+  - https://dental-care-khagaria.vercel.app/#clinic
+  - https://dental-care-khagaria.vercel.app/services#root-canal
+  - https://dental-care-khagaria.vercel.app/services#children-dentistry
+  - https://dental-care-khagaria.vercel.app/services#tooth-filling
+  - https://dental-care-khagaria.vercel.app/services#teeth-whitening
+  - https://dental-care-khagaria.vercel.app/services#complete-denture
+  - https://dental-care-khagaria.vercel.app/services#removable-partial-denture
+  - https://dental-care-khagaria.vercel.app/services#cast-partial-denture
+  - https://dental-care-khagaria.vercel.app/services#crown-bridge
+  - https://dental-care-khagaria.vercel.app/services#ultrasonic-scaling
+  - https://dental-care-khagaria.vercel.app/services#dental-implants
+  - https://dental-care-khagaria.vercel.app/services#orthodontic-treatment
+  - https://dental-care-khagaria.vercel.app/services#periodontal-surgery
+  - https://dental-care-khagaria.vercel.app/services#oral-lesions
+Visible "Khagaria" count: static body = 0
+
+--- contact.html ---
+Title (53 chars): "Contact Us — Dental Care | Dr. Manish Kumar, Khagaria"
+Meta Description (149 chars): "Contact Dental Care on Mill Road, Khagaria. Dr. Manish Kumar, Oral &amp; Dental Surgeon. Call +91 70912 38383 or visit us in front of Bala Ji TELCOM."
+Canonical: https://dental-care-khagaria.vercel.app/contact
+og:url: https://dental-care-khagaria.vercel.app/contact
+JSON-LD URLs:
+  - https://dental-care-khagaria.vercel.app/contact
+  - https://dental-care-khagaria.vercel.app/#clinic
+Visible "Khagaria" count: static body = 3
+
+--- privacy-policy.html ---
+Title (37 chars): "Privacy Policy | Dental Care Khagaria"
+Meta Description (70 chars): "Privacy Policy of the Dental Care clinic website, Mill Road, Khagaria."
+Canonical: https://dental-care-khagaria.vercel.app/privacy-policy
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- terms.html ---
+Title (35 chars): "Terms of Use | Dental Care Khagaria"
+Meta Description (68 chars): "Terms of Use of the Dental Care clinic website, Mill Road, Khagaria."
+Canonical: https://dental-care-khagaria.vercel.app/terms
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- treatments/cast-partial-denture.html ---
+Title (52 chars): "Cast Partial Denture (CPD) in Khagaria | Dental Care"
+Meta Description (157 chars): "Strong, ultra-thin cast partial dentures (CPD) in Khagaria by Dr. Manish Kumar. Metal-framed precision dentures offering superior strength, fit, and comfort."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/cast-partial-denture
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 3
+
+--- treatments/ceramic-crown-and-bridge.html ---
+Title (48 chars): "Ceramic Crown & Bridge in Khagaria | Dental Care"
+Meta Description (143 chars): "Ceramic crowns and fixed bridges in Khagaria at Dental Care. Protect treated teeth and replace missing teeth with natural-looking restorations."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/ceramic-crown-and-bridge
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 1
+
+--- treatments/childrens-dentistry.html ---
+Title (46 chars): "Children's Dentistry in Khagaria | Dental Care"
+Meta Description (134 chars): "Gentle pediatric dental care in Khagaria by Dr. Manish Kumar. Milk teeth fillings, preventive check-ups and habit counseling for kids."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/childrens-dentistry
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 4
+
+--- treatments/complete-denture.html ---
+Title (42 chars): "Complete Denture in Khagaria | Dental Care"
+Meta Description (159 chars): "Custom-crafted complete dentures in Khagaria by Dr. Manish Kumar. Comfortable, natural-looking full dentures for eating, speaking, and smiling with confidence."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/complete-denture
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 4
+
+--- treatments/dental-implants.html ---
+Title (41 chars): "Dental Implants in Khagaria | Dental Care"
+Meta Description (145 chars): "Dental implants in Khagaria by Dr. Manish Kumar, Oral &amp; Dental Surgeon. Replace missing teeth with natural-feeling, fixed implants. Call now."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/dental-implants
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- treatments/filling-of-decayed-teeth.html ---
+Title (39 chars): "Tooth Filling in Khagaria | Dental Care"
+Meta Description (140 chars): "Tooth-coloured dental fillings in Khagaria by Dr. Manish Kumar. Stop cavities from spreading and restore your tooth with composite fillings."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/filling-of-decayed-teeth
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 0
+
+--- treatments/oral-lesions-diagnosis.html ---
+Title (47 chars): "Oral Lesion Diagnosis in Khagaria | Dental Care"
+Meta Description (133 chars): "Diagnosis of mouth ulcers, white patches and red spots in Khagaria by Dr. Manish Kumar. Early detection and safe clinical management."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/oral-lesions-diagnosis
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- treatments/orthodontics.html ---
+Title (47 chars): "Braces & Orthodontics in Khagaria | Dental Care"
+Meta Description (138 chars): "Braces treatment in Khagaria by Dr. Manish Kumar, certified in Orthodontics. Straighten crooked teeth, close gaps and correct bite issues."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/orthodontics
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 1
+
+--- treatments/periodontal-flap-surgery.html ---
+Title (51 chars): "Gum (Periodontal) Surgery in Khagaria | Dental Care"
+Meta Description (141 chars): "Gum disease and periodontal flap surgery in Khagaria at Dental Care. Treat bleeding gums, deep pockets and loose teeth to save natural teeth."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/periodontal-flap-surgery
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 1
+
+--- treatments/removable-partial-denture.html ---
+Title (51 chars): "Removable Partial Denture in Khagaria | Dental Care"
+Meta Description (142 chars): "Affordable removable partial dentures in Khagaria by Dr. Manish Kumar. Replace one or more missing teeth with an easy-to-clean custom denture."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/removable-partial-denture
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- treatments/root-canal-treatment.html ---
+Title (52 chars): "Root Canal Treatment (RCT) in Khagaria | Dental Care"
+Meta Description (129 chars): "Gentle root canal treatment in Khagaria by Dr. Manish Kumar. Relieve toothache, treat pulp infection and save your natural tooth."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/root-canal-treatment
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 2
+
+--- treatments/teeth-cleaning-scaling.html ---
+Title (54 chars): "Teeth Cleaning &amp; Scaling in Khagaria | Dental Care"
+Meta Description (159 chars): "Ultrasonic teeth cleaning and scaling in Khagaria by Dr. Manish Kumar. Remove stubborn tartar, stop bleeding gums, reduce bad breath, and protect teeth safely."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/teeth-cleaning-scaling
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 1
+
+--- treatments/teeth-whitening.html ---
+Title (41 chars): "Teeth Whitening in Khagaria | Dental Care"
+Meta Description (156 chars): "Safe, professional teeth whitening in Khagaria by Dr. Manish Kumar. Remove tough tea, coffee, paan, and tobacco stains for a brighter, more confident smile."
+Canonical: https://dental-care-khagaria.vercel.app/treatments/teeth-whitening
+og:url: 
+JSON-LD URLs:
+
+Visible "Khagaria" count: static body = 0
